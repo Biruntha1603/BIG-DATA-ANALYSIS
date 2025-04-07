@@ -30,6 +30,6 @@ This project outlines the steps involved in:
     * Filtering and selecting relevant data.
     * Removing the missing values.
     * Check the shape of the data,memory space
-3.  **Plots:**Finally analyse the big data by plottings such as barchart,histogram,scatter plot,pairplot using the seaborn and matplotlib tools
+3.  Plots:Finally analyse the big data by plottings such as barchart,histogram,scatter plot,pairplot using the seaborn and matplotlib tools
 
 **This repository provides a practical example of leveraging Tool Dash for initial data handling and seamlessly transitioning to Pandas for in-depth data preprocessing and analysis.**
